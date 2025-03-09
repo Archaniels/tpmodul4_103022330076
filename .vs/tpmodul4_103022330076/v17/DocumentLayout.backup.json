@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{83745D9C-8FB3-4224-B653-E1F84808EA6B}|tpmodul4_103022330076.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul4_103022330076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83745D9C-8FB3-4224-B653-E1F84808EA6B}|tpmodul4_103022330076.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83745D9C-8FB3-4224-B653-E1F84808EA6B}|tpmodul4_103022330076.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul4_103022330076\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83745D9C-8FB3-4224-B653-E1F84808EA6B}|tpmodul4_103022330076.csproj|solutionrelative:kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83745D9C-8FB3-4224-B653-E1F84808EA6B}|tpmodul4_103022330076.csproj|c:\\users\\sxpix\\documents\\~~~ codes\\visual studio 2022\\tpmodul4_103022330076\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83745D9C-8FB3-4224-B653-E1F84808EA6B}|tpmodul4_103022330076.csproj|solutionrelative:doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul4_103022330076\\KodePos.cs",
+              "RelativeDocumentMoniker": "KodePos.cs",
+              "ToolTip": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul4_103022330076\\KodePos.cs",
+              "RelativeToolTip": "KodePos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:05:02.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul4_103022330076\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "DoorMachine.cs",
+              "ToolTip": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul4_103022330076\\DoorMachine.cs",
+              "RelativeToolTip": "DoorMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:02:10.5Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\sxpix\\Documents\\~~~ CODES\\Visual Studio 2022\\tpmodul4_103022330076\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T21:39:33.611Z",
               "EditorCaption": ""
