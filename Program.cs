@@ -16,5 +16,14 @@
         Console.WriteLine("Kebonwaru " + kode.getKodePos("Kebonwaru"));
         Console.WriteLine("Maleer " + kode.getKodePos("Maleer"));
         Console.WriteLine("Samoja " + kode.getKodePos("Samoja"));
+
+        Console.WriteLine("State based");
+        DoorMachine door = new DoorMachine();
+        door.buka();
+        door.buka();
+        door.kunci();
+        door.kunci();
+        door.buka();
+        door.buka();
     }
 }
